@@ -9,7 +9,7 @@ It is built on [Boxstarter](https://boxstarter.org/) and uses Chocolatey and oth
 To call it run the following
 
 ```powershell 
-START microsoft-edge:htps://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/mbaitelman/setup.windows/main/install.ps1
+START microsoft-edge:https://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/mbaitelman/setup.windows/main/install.ps1
 ```
 
 The `/nr/` in the URL specfies to not reboot the system.
