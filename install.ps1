@@ -50,7 +50,7 @@ choco install gh
 choco install github-desktop
 choco install microsoft-windows-terminal
 choco install poshgit
-
+# Set-ExecutinPolicy Unrestricted --Do better
 #Productivity
 choco install google-drive-file-stream               --limit-output
 choco install notion               --limit-output
